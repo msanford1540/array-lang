@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
+      location = "group:array-swift/array-swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:array-objc/array-objc.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:array-c/array-c.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:array-cpp/array-cpp.xcodeproj">
+   </FileRef>
+</Workspace>
